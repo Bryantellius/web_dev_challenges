@@ -39,14 +39,15 @@ npm test tests/challengeSet1.test.js
 ## Challenge Set Two
 
 1. Given an input, return true or false depending on if the input is a letter.
-2. Given an array, return the count of elements that are even numbers.
+2. Given an array, return true or false if the count of elements in the array is even.
 3. Given a number input, return true or false depending on if the value is even.
 4. Given a number input, return true or false depending on if the value is odd.
 5. Given an array of numbers, return the sum of the min and max numbers.
 6. Given two string inputs, return the length of the shorter input.
 7. Given an array of numbers, return the sum.
-8. Given an array of numbers, return true or false depending on if the sum is odd.
-9. Given a number, return a count of the positive odd integers below that number.
+8. Given an array of numbers, return the sum of even numbers.
+9. Given an array of numbers, return true or false depending on if the sum is odd.
+10. Given a number, return a count of the positive odd integers below that number.
 
 ## Challenge Set Three
 
